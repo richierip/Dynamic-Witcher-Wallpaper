@@ -2,7 +2,7 @@
 
 This project provides an image and a background photo that can be used to make an animated wallpaper that goes through a full day/night cycle using the Lively Wallpaper app for Windows.
 
-![alt text](https://github.com/richierip/Dynamic-Witcher-Wallpaper/blob/master/witchercapture.gif?raw=true)
+![alt text](https://github.com/richierip/Dynamic-Witcher-Wallpaper/blob/main/witchercapture.gif?raw=true)
 
 ## Installation
 
