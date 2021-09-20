@@ -16,15 +16,15 @@ Download this project and drag and drop the colorshift.html file into Lively to 
 
 ## Author + credits
 
-This was a project made from scratch by Peter Richieri. Anyone is free to use it.
+This was a project made from scratch by richierip. Anyone is free to use it.
 
 I was inspired to try this out after finding a similar color-changing wallpaper, though that uses a different method.  Check that out here -> https://github.com/chad-bennett/color-rotate-wallpaper
 
 Lastly, this is NOT MY ARTWORK!!! Credits: "Beyond Hill and Dale" by Aenami
       
-      https://www.deviantart.com/aenami/art/Beyond-Hill-and-Dale-782594320 
-      Artist Links:
-                        society6.com/aenami/prints
-                        gumroad.com/aenamiart 
-                        www.instagram.com/aenami.art 
+https://www.deviantart.com/aenami/art/Beyond-Hill-and-Dale-782594320 
+More artist Links:
+    society6.com/aenami/prints
+    gumroad.com/aenamiart 
+    www.instagram.com/aenami.art 
 
