@@ -23,8 +23,11 @@ I was inspired to try this out after finding a similar color-changing wallpaper,
 Lastly, this is NOT MY ARTWORK!!! Credits: "Beyond Hill and Dale" by Aenami
       
 https://www.deviantart.com/aenami/art/Beyond-Hill-and-Dale-782594320 
-More artist Links:
-    society6.com/aenami/prints
-    gumroad.com/aenamiart 
-    www.instagram.com/aenami.art 
+  More artist Links:
+
+society6.com/aenami/prints
+
+gumroad.com/aenamiart 
+
+www.instagram.com/aenami.art 
 
