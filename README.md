@@ -8,9 +8,9 @@ This project provides an image and a background photo that can be used to make a
 
 Use the Windows Store for an easy install, or visit https://rocksdanister.github.io/lively/. If you have the winget utility installed, this should also work:
 
-'''bash
+```bash
 winget install "lively wallpaper"
-'''
+```
 
 ## Usage
 
