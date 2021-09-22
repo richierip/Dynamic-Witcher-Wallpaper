@@ -12,11 +12,15 @@ Use the Windows Store for an easy install, or visit https://rocksdanister.github
 winget install "lively wallpaper"
 ```
 
+Note - I've only tested this with Lively Wallpaper for Windows 10, but it should work with similar apps for other operating systems. 
+
 ## Usage
 
-Download this project and drag and drop the colorshift.html file into Lively to import. It is critical that the image source remains in the same folder as this html file, so don't move it around.
+To see how this looks (on any OS), download the folder and open colorShifter.html in your browser. 
 
-## Author + credits
+If you want to use this as your background, you'll first need a program (see "Installation" above). Drag and drop the colorShifter.html file directly into Lively to import. It is critical that the image source remains in the same folder as this html file, so don't move it around.
+
+## Author + Credits
 
 This was a project made from scratch by richierip. Anyone is free to use it.
 
